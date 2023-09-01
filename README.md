@@ -6,5 +6,5 @@
 #### (기본적인 강의 예제는 15일차부터 진행함.)
 ### 15일차 - [커피머신](https://github.com/tember8003/Python_Practice/tree/main/CoffeeMachine)
 ### 16일차 - [커피머신(객체지향)](https://github.com/tember8003/Python_Practice/tree/main/CoffeeMachine-16days)
-
+### 17일차 - [OX퀴즈](https://github.com/tember8003/Python_Practice/tree/main/OXQuiz_17day)
 ***
