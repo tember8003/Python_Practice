@@ -9,6 +9,6 @@
 
 ***
 
-colorgram 패키지를 이용해서 dot.jpg 사진의 색깔을 뽑아냄. -> 튜플 리스트로 정리함.
+colorgram 패키지를 이용해서 [dot.jpg](https://github.com/tember8003/Python_Practice/blob/main/Turtle-18day/dot.jpg) 사진의 색깔을 뽑아냄. -> 튜플 리스트로 정리함.
 
 turtle을 이용해 그림을 그림. (setheading,heading,forward,penup 등 사용)
