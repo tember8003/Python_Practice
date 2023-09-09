@@ -5,6 +5,7 @@
 ***
 
 ![18일차 그림](https://github.com/tember8003/Python_Practice/assets/104021663/29b5c5b6-4f53-41c9-9168-38b4aeb12736)
+![18일차 그림 gif버전](https://github.com/tember8003/Python_Practice/assets/104021663/e80fa39c-d22e-479e-9bd2-6959d01219f7)
 
 
 ***
