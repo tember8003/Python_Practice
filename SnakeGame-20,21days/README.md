@@ -3,6 +3,7 @@
 ### 강의 페이지 (https://kmooc.udemy.com/course/best-100-days-python/learn/lecture/)
 
 ***
+실행 예시
 
 ![snake_game](https://github.com/tember8003/Python_Practice/assets/104021663/82d28282-6a7d-474e-af97-62d1082223de)
 
