@@ -2,8 +2,8 @@ from tkinter import *
 
 def mile_to_km():
     miles = float(miles_input.get())
-    km = round(miles*1.609)
-    kilometer_result_label.config(text=f"{km}")
+    km = round(miles*1.609) #마일을 킬로미터로 변환
+    kilometer_result_label.config(text=f"{km}") #결과 텍스트 변환
 
 window=Tk()
 window.title("마일을 킬로미터로 바꾸기")
